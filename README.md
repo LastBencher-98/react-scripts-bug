@@ -1,7 +1,7 @@
 # react-scripts-bug
 
 ### How to Run?
-1. Clone the project
+1. Clone the project.
 2. Start express(test) API server using the following command. It should be available in http://localhost:8081 
     ```shell
     $ node server.js
